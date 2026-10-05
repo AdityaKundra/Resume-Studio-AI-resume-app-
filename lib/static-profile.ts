@@ -47,9 +47,9 @@ export const STATIC_USER_PROFILE: StaticUserProfile = {
     "Full Stack Engineer with 5+ years of experience building scalable, high-performance web applications using MERN stack and Next.js. Proven track record of optimizing APIs, improving system performance, and delivering production-grade solutions used by 100K+ users.",
   experience: [
     {
-      role: "Full Stack Engineer",
-      company: "AVH Commerce (Vanavya)",
-      duration: "Sep 2025 – May 2026",
+      role: "Software Engineer",
+      company: "AVH Commerce",
+      duration: "Sep 2025 – Present",
       responsibilities: [
         "Built and scaled e-commerce features improving performance and user experience",
         "Developed optimized APIs using Node.js, Express, MongoDB",
